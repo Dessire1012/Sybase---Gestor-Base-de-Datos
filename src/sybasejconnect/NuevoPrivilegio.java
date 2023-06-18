@@ -59,7 +59,7 @@ public class NuevoPrivilegio extends javax.swing.JDialog {
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\add-user.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\Imagenes\\add-user.png")); // NOI18N
 
         jLabel5.setFont(new java.awt.Font("Roboto", 1, 24)); // NOI18N
         jLabel5.setText("Nuevo Privilegio");

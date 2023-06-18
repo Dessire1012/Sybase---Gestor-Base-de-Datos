@@ -62,14 +62,14 @@ public class Registro extends javax.swing.JDialog {
 
         jPanel1.setBackground(new java.awt.Color(255, 255, 255));
 
-        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\add-user.png")); // NOI18N
+        jLabel1.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\Imagenes\\add-user.png")); // NOI18N
 
         jLabel5.setFont(new java.awt.Font("Roboto", 1, 24)); // NOI18N
         jLabel5.setText("Nuevo usuario");
 
-        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\profile.png")); // NOI18N
+        jLabel2.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\Imagenes\\profile.png")); // NOI18N
 
-        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\password.png")); // NOI18N
+        jLabel3.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\Imagenes\\password.png")); // NOI18N
 
         jSeparator1.setForeground(new java.awt.Color(0, 0, 0));
 

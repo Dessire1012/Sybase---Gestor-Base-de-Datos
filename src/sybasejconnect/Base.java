@@ -1182,25 +1182,66 @@ public class Base extends javax.swing.JFrame {
                     .addGap(0, 0, Short.MAX_VALUE)))
         );
 
-        jButton1.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\icons8-excel-24.png")); // NOI18N
+        jButton1.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\Imagenes\\icons8-excel-24.png")); // NOI18N
         jButton1.setText("Excel");
 
-        jButton2.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\icons8-pdf-24.png")); // NOI18N
+        jButton2.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\Imagenes\\icons8-pdf-24.png")); // NOI18N
         jButton2.setText("PDF");
+        jButton2.setToolTipText("");
 
-        jButton3.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\icons8-excel-24.png")); // NOI18N
+        jButton3.setIcon(new javax.swing.JLabel() {
+            public javax.swing.Icon getIcon() {
+                try {
+                    return new javax.swing.ImageIcon(
+                        new java.net.URL("file:/C:/Users/dessi/OneDrive/Documentos/NetBeansProjects/SybaseJDBC/Imagenes/icons8-excel-24.png")
+                    );
+                } catch (java.net.MalformedURLException e) {
+                }
+                return null;
+            }
+        }.getIcon());
         jButton3.setText("Excel");
 
-        jButton4.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\icons8-excel-24.png")); // NOI18N
+        jButton4.setIcon(new javax.swing.JLabel() {
+            public javax.swing.Icon getIcon() {
+                try {
+                    return new javax.swing.ImageIcon(
+                        new java.net.URL("file:/C:/Users/dessi/OneDrive/Documentos/NetBeansProjects/SybaseJDBC/Imagenes/icons8-excel-24.png")
+                    );
+                } catch (java.net.MalformedURLException e) {
+                }
+                return null;
+            }
+        }.getIcon());
         jButton4.setText("Excel");
 
         jButton5.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\icons8-excel-24.png")); // NOI18N
         jButton5.setText("Excel");
 
-        jButton6.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\icons8-pdf-24.png")); // NOI18N
+        jButton6.setIcon(new javax.swing.JLabel() {
+            public javax.swing.Icon getIcon() {
+                try {
+                    return new javax.swing.ImageIcon(
+                        new java.net.URL("file:/C:/Users/dessi/OneDrive/Documentos/NetBeansProjects/SybaseJDBC/Imagenes/icons8-pdf-24.png")
+                    );
+                } catch (java.net.MalformedURLException e) {
+                }
+                return null;
+            }
+        }.getIcon());
         jButton6.setText("PDF");
 
-        jButton7.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\icons8-pdf-24.png")); // NOI18N
+        jButton7.setIcon(new javax.swing.JLabel() {
+            public javax.swing.Icon getIcon() {
+                try {
+                    return new javax.swing.ImageIcon(
+                        new java.net.URL("file:/C:/Users/dessi/OneDrive/Documentos/NetBeansProjects/SybaseJDBC/Imagenes/icons8-pdf-24.png")
+                    );
+                } catch (java.net.MalformedURLException e) {
+                }
+                return null;
+            }
+        }.getIcon());
         jButton7.setText("PDF");
 
         jButton8.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\icons8-pdf-24.png")); // NOI18N
@@ -1214,7 +1255,17 @@ public class Base extends javax.swing.JFrame {
             }
         });
 
-        jButton10.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\icons8-document-header-24.png")); // NOI18N
+        jButton10.setIcon(new javax.swing.JLabel() {
+            public javax.swing.Icon getIcon() {
+                try {
+                    return new javax.swing.ImageIcon(
+                        new java.net.URL("file:/C:/Users/dessi/OneDrive/Documentos/NetBeansProjects/SybaseJDBC/Imagenes/icons8-document-header-24.png")
+                    );
+                } catch (java.net.MalformedURLException e) {
+                }
+                return null;
+            }
+        }.getIcon());
         jButton10.setText("Generar");
         jButton10.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {
@@ -1222,7 +1273,17 @@ public class Base extends javax.swing.JFrame {
             }
         });
 
-        jButton11.setIcon(new javax.swing.ImageIcon("C:\\Users\\dessi\\OneDrive\\Documentos\\NetBeansProjects\\SybaseJDBC\\icons8-document-header-24.png")); // NOI18N
+        jButton11.setIcon(new javax.swing.JLabel() {
+            public javax.swing.Icon getIcon() {
+                try {
+                    return new javax.swing.ImageIcon(
+                        new java.net.URL("file:/C:/Users/dessi/OneDrive/Documentos/NetBeansProjects/SybaseJDBC/Imagenes/icons8-document-header-24.png")
+                    );
+                } catch (java.net.MalformedURLException e) {
+                }
+                return null;
+            }
+        }.getIcon());
         jButton11.setText("Generar");
         jButton11.addMouseListener(new java.awt.event.MouseAdapter() {
             public void mouseClicked(java.awt.event.MouseEvent evt) {

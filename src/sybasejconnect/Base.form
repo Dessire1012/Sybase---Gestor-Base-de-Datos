@@ -1603,7 +1603,7 @@
                 <Component class="javax.swing.JButton" name="jButton1">
                   <Properties>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="2" name="C:\Users\dessi\OneDrive\Documentos\NetBeansProjects\SybaseJDBC\icons8-excel-24.png"/>
+                      <Image iconType="2" name="C:\Users\dessi\OneDrive\Documentos\NetBeansProjects\SybaseJDBC\Imagenes\icons8-excel-24.png"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="Excel"/>
                   </Properties>
@@ -1611,15 +1611,16 @@
                 <Component class="javax.swing.JButton" name="jButton2">
                   <Properties>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="2" name="C:\Users\dessi\OneDrive\Documentos\NetBeansProjects\SybaseJDBC\icons8-pdf-24.png"/>
+                      <Image iconType="2" name="C:\Users\dessi\OneDrive\Documentos\NetBeansProjects\SybaseJDBC\Imagenes\icons8-pdf-24.png"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="PDF"/>
+                    <Property name="toolTipText" type="java.lang.String" value=""/>
                   </Properties>
                 </Component>
                 <Component class="javax.swing.JButton" name="jButton3">
                   <Properties>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="2" name="C:\Users\dessi\OneDrive\Documentos\NetBeansProjects\SybaseJDBC\icons8-excel-24.png"/>
+                      <Image iconType="1" name="file:/C:/Users/dessi/OneDrive/Documentos/NetBeansProjects/SybaseJDBC/Imagenes/icons8-excel-24.png"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="Excel"/>
                   </Properties>
@@ -1627,7 +1628,7 @@
                 <Component class="javax.swing.JButton" name="jButton4">
                   <Properties>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="2" name="C:\Users\dessi\OneDrive\Documentos\NetBeansProjects\SybaseJDBC\icons8-excel-24.png"/>
+                      <Image iconType="1" name="file:/C:/Users/dessi/OneDrive/Documentos/NetBeansProjects/SybaseJDBC/Imagenes/icons8-excel-24.png"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="Excel"/>
                   </Properties>
@@ -1643,7 +1644,7 @@
                 <Component class="javax.swing.JButton" name="jButton6">
                   <Properties>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="2" name="C:\Users\dessi\OneDrive\Documentos\NetBeansProjects\SybaseJDBC\icons8-pdf-24.png"/>
+                      <Image iconType="1" name="file:/C:/Users/dessi/OneDrive/Documentos/NetBeansProjects/SybaseJDBC/Imagenes/icons8-pdf-24.png"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="PDF"/>
                   </Properties>
@@ -1651,7 +1652,7 @@
                 <Component class="javax.swing.JButton" name="jButton7">
                   <Properties>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="2" name="C:\Users\dessi\OneDrive\Documentos\NetBeansProjects\SybaseJDBC\icons8-pdf-24.png"/>
+                      <Image iconType="1" name="file:/C:/Users/dessi/OneDrive/Documentos/NetBeansProjects/SybaseJDBC/Imagenes/icons8-pdf-24.png"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="PDF"/>
                   </Properties>
@@ -1678,7 +1679,7 @@
                 <Component class="javax.swing.JButton" name="jButton10">
                   <Properties>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="2" name="C:\Users\dessi\OneDrive\Documentos\NetBeansProjects\SybaseJDBC\icons8-document-header-24.png"/>
+                      <Image iconType="1" name="file:/C:/Users/dessi/OneDrive/Documentos/NetBeansProjects/SybaseJDBC/Imagenes/icons8-document-header-24.png"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="Generar"/>
                   </Properties>
@@ -1689,7 +1690,7 @@
                 <Component class="javax.swing.JButton" name="jButton11">
                   <Properties>
                     <Property name="icon" type="javax.swing.Icon" editor="org.netbeans.modules.form.editors2.IconEditor">
-                      <Image iconType="2" name="C:\Users\dessi\OneDrive\Documentos\NetBeansProjects\SybaseJDBC\icons8-document-header-24.png"/>
+                      <Image iconType="1" name="file:/C:/Users/dessi/OneDrive/Documentos/NetBeansProjects/SybaseJDBC/Imagenes/icons8-document-header-24.png"/>
                     </Property>
                     <Property name="text" type="java.lang.String" value="Generar"/>
                   </Properties>
